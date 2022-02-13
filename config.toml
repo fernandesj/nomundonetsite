@@ -1,5 +1,5 @@
-baseurl = "https://devcows.github.io/hugo-universal-theme/"
-languageCode = 'pt-br'
+baseurl = "https://nomundo.net"
+languageCode = 'en'
 title = 'Novo Site EE'
 
 theme = "hugo-universal-theme"
