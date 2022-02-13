@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 baseURL = 'http://nomundo.net/'
 languageCode = 'en'
 title = 'Novo Mundo Net - New Net World'
-=======
-baseurl = "https://nomundo.net"
-languageCode = 'en'
-title = 'Novo Site EE'
->>>>>>> f66e3ba1c856b6b0cf86ac06df6eafc23ad57bc8
 
 theme = "hugo-universal-theme"
 # Site language. Available translations in the theme's `/i18n` directory.
